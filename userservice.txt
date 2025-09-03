@@ -1,7 +1,12 @@
 Get the new file owunfowernfowen
 process the data
+<<<<<<< HEAD
 Hello
 
 
 
 helllllllllllllllllllll
+=======
+
+create a avatar for user 
+>>>>>>> feature1
